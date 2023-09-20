@@ -1,0 +1,1 @@
+sudo pacman -S --needed wget curl git make gcc neovim unzip zip npm python

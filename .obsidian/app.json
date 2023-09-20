@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "trashOption": "local",
+  "showLineNumber": true,
+  "useTab": false,
+  "livePreview": true,
+  "showFrontmatter": false,
+  "smartIndentList": false,
+  "autoPairMarkdown": false,
+  "attachmentFolderPath": "media",
+  "spellcheck": false
+}
