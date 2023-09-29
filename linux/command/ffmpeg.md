@@ -2,3 +2,7 @@
 ```shell
 ffmpeg -i <input.flac> -acodec -b:a 320k <output.mp3>
 ```
+2. flac to mp3
+```shell
+ffmpeg -i <input.flac> -acodec libmp3lame <output.mp3>
+```
