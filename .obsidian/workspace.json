@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b46613127e0491f1",
+        "id": "cd297914eb630f31",
         "type": "tabs",
         "children": [
           {
-            "id": "dc5ab608272416a6",
+            "id": "573f520a29502020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Archlinux Install Guide/Security/polkit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7361ffeb01346d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn/computer/architecture/Chapter 1-A Tour of Computer System.md",
+                "file": "linux/Archlinux Install Guide/AUR/paru.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 315.5
   },
   "right": {
     "id": "e29e48dafb234d3c",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn/computer/architecture/Chapter 1-A Tour of Computer System.md",
+                "file": "linux/Archlinux Install Guide/AUR/paru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn/computer/architecture/Chapter 1-A Tour of Computer System.md",
+                "file": "linux/Archlinux Install Guide/AUR/paru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn/computer/architecture/Chapter 1-A Tour of Computer System.md"
+                "file": "linux/Archlinux Install Guide/AUR/paru.md"
               }
             }
           },
@@ -169,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "7a78e21f456243d6",
@@ -201,53 +188,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7361ffeb01346d7e",
+  "active": "573f520a29502020",
   "lastOpenFiles": [
-    "learn/computer/architecture/2.2 Integer Representations/2.2.8 Advice on Signed versus Unsigned.md",
-    "linux/Archlinux Install Guide/Input method/fcitx5.md",
-    "linux/Archlinux Install Guide/Utility/ripgrep.md",
-    "linux/Archlinux Install Guide/Install list.md",
-    "linux/Archlinux Install Guide/Utility",
-    "linux/Archlinux Install Guide/File Manater/nemo.md",
-    "linux/Archlinux Install Guide/File Manater/ranger.md",
-    "linux/Archlinux Install Guide/File Manater",
-    "linux/Archlinux Install Guide/Security/polkit.md",
-    "linux/Archlinux Install Guide/Security/Po",
-    "linux/Archlinux Install Guide/Security",
-    "linux/command/pacman.md",
-    "linux/command/ffmpeg.md",
-    "linux/Archlinux Install Guide/Display server/Xorg/xorg-server.md",
-    "linux/Archlinux Install Guide/Display server/Wayland/Compositor/Hyprland/xwayland.md",
-    "linux/Archlinux Install Guide/Display server/Wayland/Compositor/Hyprland/wallpaper.md",
-    "linux/command/xprop.md",
+    "linux/Software/Dictionary/goldendict.md",
+    "linux/Software/Clipboard/copyq.md",
+    "linux/Software/Dictionary",
+    "linux/Software/Password Manager/keepassxc.md",
+    "linux/Software/Clipboard",
+    "Language/Japanese/片假名.md",
+    "linux/Software/Password Manager",
+    "Language/Japanese/scene/ask location.md",
     "linux/command/xhost.md",
-    "linux/Archlinux Install Guide/Display server/Wayland/Compositor/Hyprland/hyprland.md",
-    "linux/FQA/dnsmasq.md",
-    "linux/Archlinux Install Guide/Display server/Xorg",
-    "language/Markdown/Markdown——markup language.md",
-    "linux/command/git.md",
-    "linux/Archlinux Install Guide/Game/The Pillars of the Earth/dependencies.md",
-    "Day Planners/2023-08-15.md",
-    "Day Planners/2023-08-09.md",
-    "Day Planners/2023-08-01.md",
-    "Day Planners/2023-07-31.md",
-    "Day Planners/2023-07-10.md",
-    "Day Planners/2023-07-09.md",
-    "Day Planners/2023-07-08.md",
+    "linux/Archlinux Install Guide/Porxy/clash.md",
+    "linux/Archlinux Install Guide/Porxy/v2ray.md",
+    "linux/Software/Victual Machine/vmware pro.md",
+    "linux/Archlinux Install Guide/Porxy",
+    "linux/Software/Victual Machine/qemu.md",
+    "linux/Software/Note/obsidian.md",
+    "linux/Software/Victual Machine",
+    "linux/Software/Text Editor/vscode.md",
+    "linux/Software/Note",
+    "linux/Software/Text Editor/nvim.md",
+    "linux/Software/Text Editor/vim.md",
+    "linux/Software/Emial/thunderbird.md",
+    "linux/Software/Text Editor",
+    "linux/Software/NetMeeting/wemeet.md",
+    "linux/Software/Emial",
+    "linux/Software/Game/Emulator/Game Boy Advance/mgba.md",
+    "linux/Software/NetMeeting",
+    "linux/Software/Game/Emulator/Nitendo Switch/yuzu.md",
+    "linux/Software/Game/Emulator/Game Boy Advance",
+    "linux/Software/Game/Emulator/Nitendo Switch/ryujinx.md",
+    "linux/Software/Game/Emulator/Nitendo 3DS/citra.md",
+    "linux/Software/Game/Emulator/Nitendo DS/desmume.md",
+    "linux/Software/Office/libreoffice.md",
+    "linux/Software/Cloud Disk/baidunetdisk.md",
+    "linux/Software/PDF Viewer/atril.md",
+    "linux/Software/Player/mpv.md",
+    "linux/Software/Internet Downloader/(xdm) xtreme download manager.md",
     "linux/未命名.canvas",
-    "linux/Archlinux Install Guide/Game/The Pillars of the Earth",
-    "linux/Archlinux Install Guide/Game/Stardew Valley",
-    "linux/Archlinux Install Guide/Game/Shadow Tactics",
-    "linux/Archlinux Install Guide/Media/Sound",
-    "linux/Archlinux Install Guide/WLAN",
-    "media/prompt-color.png",
-    "media/prompt.png",
+    "zmedia/prompt-color.png",
+    "zmedia/prompt.png",
     "media/2023-07-27-17:50:10.png",
-    "media/gcc_en.png",
-    "media/gcc.png",
+    "zmedia/gcc_en.png",
+    "zmedia/gcc.png",
     "media/gcc2.png",
     "media/2023-07-09-14:21:44.png",
-    "media/hello.png",
+    "zmedia/hello.png",
     "media/2023-07-09-11:15:15.png",
     "media/2023-07-09-11:02:47.png"
   ]

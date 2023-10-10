@@ -6,3 +6,7 @@ ffmpeg -i <input.flac> -acodec -b:a 320k <output.mp3>
 ```shell
 ffmpeg -i <input.flac> -acodec libmp3lame <output.mp3>
 ```
+3. get music cover
+```shell
+ffmpeg -i <input.flac> -an -vf scale=500:500 <output.png>
+```
