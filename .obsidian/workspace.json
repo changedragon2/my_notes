@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Archlinux Install Guide/AUR/paru.md",
+                "file": "linux/Software/Chat/IRC/WeeChat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Archlinux Install Guide/AUR/paru.md",
+                "file": "linux/Software/Chat/IRC/WeeChat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Archlinux Install Guide/AUR/paru.md",
+                "file": "linux/Software/Chat/IRC/WeeChat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Archlinux Install Guide/AUR/paru.md"
+                "file": "linux/Software/Chat/IRC/WeeChat.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "573f520a29502020",
   "lastOpenFiles": [
+    "linux/Archlinux Install Guide/AUR/paru.md",
     "linux/Software/Dictionary/goldendict.md",
     "linux/Software/Clipboard/copyq.md",
     "linux/Software/Dictionary",
@@ -225,7 +226,6 @@
     "linux/Software/Cloud Disk/baidunetdisk.md",
     "linux/Software/PDF Viewer/atril.md",
     "linux/Software/Player/mpv.md",
-    "linux/Software/Internet Downloader/(xdm) xtreme download manager.md",
     "linux/未命名.canvas",
     "zmedia/prompt-color.png",
     "zmedia/prompt.png",

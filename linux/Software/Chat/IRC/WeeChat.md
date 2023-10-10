@@ -22,9 +22,9 @@ linux> weechat
     接下来配置SASL
     ```shell
     /set irc.server.libera.sasl_mechanism PLAIN
-    # 已经注册过的用户名 chansteam3
+    # 已经注册过的用户名
     /set irc.server.libera.sasl_username <Your Name>
-    # 密码 qweasdzxc321
+    # 密码
     /set irc.server.libera.sasl_password <Your Password>
     /save
     ```
