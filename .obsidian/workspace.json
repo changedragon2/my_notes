@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd297914eb630f31",
+        "id": "7e28a6a76de80af5",
         "type": "tabs",
         "children": [
           {
-            "id": "573f520a29502020",
+            "id": "9658023ce97f0f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Software/Chat/IRC/WeeChat.md",
+                "file": "Program language/Database/postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 200
   },
   "right": {
     "id": "e29e48dafb234d3c",
@@ -80,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db0d8deeaf31c1e1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "linux/Software/Chat/IRC/WeeChat.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "758308f1a76f1915",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Software/Chat/IRC/WeeChat.md",
+                "file": "Program language/Database/postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Software/Chat/IRC/WeeChat.md"
+                "file": "Program language/Database/postgresql.md"
               }
             }
           },
@@ -154,9 +137,26 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "5002e03debd8e4a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Program language/Database/postgresql.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "7a78e21f456243d6",
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,54 +188,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "573f520a29502020",
+  "active": "9658023ce97f0f91",
   "lastOpenFiles": [
+    "Program language/Database/postgresql.md",
+    "Program language/Database",
+    "linux/command/ffmpeg.md",
+    "linux/Archlinux Install Guide/Share/Web/FAQ.md",
+    "linux/Archlinux Install Guide/Share/Web/apache - http,https server.md",
+    "Language/Japanese/sentence/greet.md",
+    "Language/Japanese/sentence/number & color.md",
+    "Language/Japanese/sentence/time.md",
+    "Language/Japanese/scene/ask location.md",
+    "Language/Japanese/sentence",
+    "Program language/C/constant.md",
+    "learn/computer/architecture/Chapter 1-A Tour of Computer System.md",
+    "learn/computer/architecture/2.2 Integer Representations/2.2.8 Advice on Signed versus Unsigned.md",
+    "Program language/Markdown/Markdown——markup language.md",
+    "zmedia/constant.png",
+    "Program language/Markdown/Readme.md",
+    "Excalidraw/Drawing 2023-10-21 10.44.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-09 13.33.30.excalidraw.md",
+    "zmedia/prompt-color.png",
+    "zmedia/prompt.png",
+    "zmedia/gcc_en.png",
+    "zmedia/gcc.png",
+    "Program language/C/Keywords.md",
+    "Program language/C/Tokens.md",
+    "linux/config/vim.md",
+    "Program language/C",
+    "linux/command/fg.md",
+    "Program language/Makefile",
+    "linux/command/jobs.md",
+    "learn/computer/network/A Top-Down Approach/What is the Internet.md",
+    "learn/computer/network/A Top-Down Approach/Chapter 1",
+    "learn/computer/network/A Top-Down Approach",
+    "Language/Japanese/片假名.md",
+    "linux/Software/Chat/IRC/WeeChat.md",
     "linux/Archlinux Install Guide/AUR/paru.md",
     "linux/Software/Dictionary/goldendict.md",
     "linux/Software/Clipboard/copyq.md",
     "linux/Software/Dictionary",
-    "linux/Software/Password Manager/keepassxc.md",
     "linux/Software/Clipboard",
-    "Language/Japanese/片假名.md",
     "linux/Software/Password Manager",
-    "Language/Japanese/scene/ask location.md",
-    "linux/command/xhost.md",
-    "linux/Archlinux Install Guide/Porxy/clash.md",
-    "linux/Archlinux Install Guide/Porxy/v2ray.md",
-    "linux/Software/Victual Machine/vmware pro.md",
     "linux/Archlinux Install Guide/Porxy",
-    "linux/Software/Victual Machine/qemu.md",
-    "linux/Software/Note/obsidian.md",
-    "linux/Software/Victual Machine",
-    "linux/Software/Text Editor/vscode.md",
-    "linux/Software/Note",
-    "linux/Software/Text Editor/nvim.md",
-    "linux/Software/Text Editor/vim.md",
-    "linux/Software/Emial/thunderbird.md",
-    "linux/Software/Text Editor",
-    "linux/Software/NetMeeting/wemeet.md",
-    "linux/Software/Emial",
-    "linux/Software/Game/Emulator/Game Boy Advance/mgba.md",
-    "linux/Software/NetMeeting",
-    "linux/Software/Game/Emulator/Nitendo Switch/yuzu.md",
-    "linux/Software/Game/Emulator/Game Boy Advance",
-    "linux/Software/Game/Emulator/Nitendo Switch/ryujinx.md",
-    "linux/Software/Game/Emulator/Nitendo 3DS/citra.md",
-    "linux/Software/Game/Emulator/Nitendo DS/desmume.md",
-    "linux/Software/Office/libreoffice.md",
-    "linux/Software/Cloud Disk/baidunetdisk.md",
-    "linux/Software/PDF Viewer/atril.md",
-    "linux/Software/Player/mpv.md",
     "linux/未命名.canvas",
-    "zmedia/prompt-color.png",
-    "zmedia/prompt.png",
     "media/2023-07-27-17:50:10.png",
-    "zmedia/gcc_en.png",
-    "zmedia/gcc.png",
     "media/gcc2.png",
     "media/2023-07-09-14:21:44.png",
     "zmedia/hello.png",
-    "media/2023-07-09-11:15:15.png",
-    "media/2023-07-09-11:02:47.png"
+    "media/2023-07-09-11:15:15.png"
   ]
 }
