@@ -1,0 +1,1 @@
+display status of jobs in the current session
