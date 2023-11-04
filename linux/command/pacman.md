@@ -14,6 +14,10 @@ prompt> sudo pacman -Syu
 ```shell
 prompt> sudo pacman -Syu pkg_name1 pkg_name2 ...
 ```
+2. 安装本地已经编译好的AUR包
+```shell
+sudo pacman -U pkg_name.pkg.tar.zst
+```
 ###### 搜索
 1. 搜索远程数据库（所有包的数据）
 ```shell
@@ -30,6 +34,10 @@ prompt> pacman -Qm
 4. 检查作为依赖项安装的软件包，但现在没有其他软件包依赖于它们
 ```shell
 prompt> pacman -Qtd
+```
+5. 列出安装的AUR包
+```shell
+pacman -Qtm
 ```
 ###### 设备迁移
 1. 备份已安装软件包列表

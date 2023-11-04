@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program language/Database/postgresql.md",
+                "file": "Program language/SQL/Postgresql/postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "e29e48dafb234d3c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program language/Database/postgresql.md",
+                "file": "Program language/SQL/Postgresql/postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program language/Database/postgresql.md"
+                "file": "Program language/SQL/Postgresql/postgresql.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program language/Database/postgresql.md",
+                "file": "Program language/SQL/Postgresql/postgresql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,47 +190,47 @@
   },
   "active": "9658023ce97f0f91",
   "lastOpenFiles": [
-    "Program language/Database/postgresql.md",
-    "Program language/Database",
-    "linux/command/ffmpeg.md",
-    "linux/Archlinux Install Guide/Share/Web/FAQ.md",
-    "linux/Archlinux Install Guide/Share/Web/apache - http,https server.md",
-    "Language/Japanese/sentence/greet.md",
+    "Program language/HTML/tag/form/form.md",
+    "Program language/HTML/tag/list/ol & ul.md",
+    "Program language/HTML/tag/text format/pre.md",
+    "Program language/HTML/tag/form",
+    "Program language/HTML/comment.md",
+    "Program language/HTML/help.md",
+    "Program language/HTML/HTML.md",
+    "Program language/HTML/tag/text format/ins.md",
+    "Program language/HTML/tag/text format/sub.md",
+    "Program language/HTML/tag/text format/sup.md",
+    "Program language/HTML/tag/text format/strong.md",
+    "Program language/HTML/tag/text format/small.md",
+    "Program language/HTML/tag/text format/em.md",
+    "Program language/HTML/tag/text format/del.md",
+    "Program language/HTML/tag/text format/i.md",
+    "Program language/HTML/tag/text format/b.md",
+    "Program language/HTML/tag/text format/big.md",
+    "Program language/HTML/tag/text format",
     "Language/Japanese/sentence/number & color.md",
-    "Language/Japanese/sentence/time.md",
-    "Language/Japanese/scene/ask location.md",
-    "Language/Japanese/sentence",
-    "Program language/C/constant.md",
-    "learn/computer/architecture/Chapter 1-A Tour of Computer System.md",
-    "learn/computer/architecture/2.2 Integer Representations/2.2.8 Advice on Signed versus Unsigned.md",
-    "Program language/Markdown/Markdown——markup language.md",
+    "Program language/SQL/Postgresql/statements/WHERE.md",
+    "Program language/SQL/Postgresql/statements/DISTINCT.md",
+    "Program language/SQL/Postgresql/statements/ORDER BY.md",
+    "Program language/SQL/Postgresql/statements/SELECT.md",
+    "Program language/SQL/Postgresql/postgresql.md",
+    "linux/Software/Text Editor/vim.md",
+    "linux/Software/Text Editor/vscode.md",
+    "linux/Software/Text Editor/nvim.md",
+    "Program language/SQL/Postgresql/statements/AS.md",
+    "Program language/HTML/tag/head",
+    "Program language/HTML/tag/list",
+    "Program language/PHP",
+    "Program language/HTML/tag",
+    "Program language/HTML",
+    "linux/Software/Game/Emulator/Nintendo Wii U",
+    "linux/Software/Game/Emulator/Nintendo Wii",
+    "linux/Software/Game/Emulator/Nintendo 64",
     "zmedia/constant.png",
-    "Program language/Markdown/Readme.md",
-    "Excalidraw/Drawing 2023-10-21 10.44.08.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-09 13.33.30.excalidraw.md",
     "zmedia/prompt-color.png",
     "zmedia/prompt.png",
     "zmedia/gcc_en.png",
     "zmedia/gcc.png",
-    "Program language/C/Keywords.md",
-    "Program language/C/Tokens.md",
-    "linux/config/vim.md",
-    "Program language/C",
-    "linux/command/fg.md",
-    "Program language/Makefile",
-    "linux/command/jobs.md",
-    "learn/computer/network/A Top-Down Approach/What is the Internet.md",
-    "learn/computer/network/A Top-Down Approach/Chapter 1",
-    "learn/computer/network/A Top-Down Approach",
-    "Language/Japanese/片假名.md",
-    "linux/Software/Chat/IRC/WeeChat.md",
-    "linux/Archlinux Install Guide/AUR/paru.md",
-    "linux/Software/Dictionary/goldendict.md",
-    "linux/Software/Clipboard/copyq.md",
-    "linux/Software/Dictionary",
-    "linux/Software/Clipboard",
-    "linux/Software/Password Manager",
-    "linux/Archlinux Install Guide/Porxy",
     "linux/未命名.canvas",
     "media/2023-07-27-17:50:10.png",
     "media/gcc2.png",
