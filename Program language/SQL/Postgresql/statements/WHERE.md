@@ -1,4 +1,4 @@
-#### Syntax
+### Syntax
 ```SQL
 SELECT
     select_list
@@ -29,7 +29,7 @@ FROM -> WHERE -> SELECT -> ORDER BY
 | IS NULL  | Return true if value is null                        |
 | NOT      | Negate the result of other operators                | 
 
-#### Examples
+### Examples
 1. AND
 ```SQL
 SELECT first_name, last_name

@@ -1,5 +1,5 @@
 remove duplicate rows
-#### Syntax
+### Syntax
 1. remove duplicate rows accoding column1
 ```SQL
 SELECT

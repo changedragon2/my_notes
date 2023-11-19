@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program language/SQL/Postgresql/postgresql.md",
+                "file": "linux/Software/Color Picker/gpick.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program language/SQL/Postgresql/postgresql.md",
+                "file": "linux/Software/Color Picker/gpick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program language/SQL/Postgresql/postgresql.md"
+                "file": "linux/Software/Color Picker/gpick.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program language/SQL/Postgresql/postgresql.md",
+                "file": "linux/Software/Color Picker/gpick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,42 +190,44 @@
   },
   "active": "9658023ce97f0f91",
   "lastOpenFiles": [
-    "Program language/HTML/tag/form/form.md",
-    "Program language/HTML/tag/list/ol & ul.md",
-    "Program language/HTML/tag/text format/pre.md",
-    "Program language/HTML/tag/form",
-    "Program language/HTML/comment.md",
-    "Program language/HTML/help.md",
-    "Program language/HTML/HTML.md",
-    "Program language/HTML/tag/text format/ins.md",
-    "Program language/HTML/tag/text format/sub.md",
-    "Program language/HTML/tag/text format/sup.md",
-    "Program language/HTML/tag/text format/strong.md",
-    "Program language/HTML/tag/text format/small.md",
-    "Program language/HTML/tag/text format/em.md",
-    "Program language/HTML/tag/text format/del.md",
-    "Program language/HTML/tag/text format/i.md",
-    "Program language/HTML/tag/text format/b.md",
-    "Program language/HTML/tag/text format/big.md",
-    "Program language/HTML/tag/text format",
-    "Language/Japanese/sentence/number & color.md",
+    "linux/Archlinux Install Guide/Utility/Touchpad/touchegg.md",
+    "linux/Software/Color Picker/gpick.md",
+    "linux/Software/Color Picker",
+    "linux/Software/Digital Painting/krita.md",
+    "linux/Archlinux Install Guide/Utility/Touchpad",
+    "linux/Software/Image Manipulation/GIMP.md",
+    "linux/Software/Digital Painting",
+    "linux/Software/Image Manipulation/Untitled.md",
+    "linux/Software/Mind Mapping/xmind.md",
+    "linux/Software/Image Manipulation",
+    "linux/Archlinux Install Guide/Utility/Version Control System/lazygit.md",
+    "linux/Software/Mind Mapping",
+    "linux/Archlinux Install Guide/Utility/Version Control System/git.md",
+    "linux/Archlinux Install Guide/Utility/Launcher/rofi.md",
+    "linux/Archlinux Install Guide/Utility/Version Control System",
+    "linux/Special Command/neofetch.md",
+    "linux/Archlinux Install Guide/Utility/Launcher",
+    "linux/Archlinux",
+    "linux/Archlinux Install Guide/grub.md",
+    "linux/Special Command",
+    "linux/Archlinux Install Guide/Untitled",
+    "linux/Archlinux Install Guide/Utility tools install list.md",
+    "linux/Freedesktop.org/Desktop entries.md",
+    "Program language/SQL/Postgresql/statements/Joins.md",
+    "linux/Software/Game/Minecraft/HMCL.md",
+    "Program language/SQL/Postgresql/statements/INNER JOIN.md",
+    "Program language/SQL/Postgresql/statements/Table Alias.md",
+    "Program language/SQL/Postgresql/statements/IS NULL.md",
+    "Program language/SQL/Postgresql/statements/LIKE.md",
+    "Program language/SQL/Postgresql/statements/IN.md",
+    "().md",
+    "zmedia/inner_join.png",
     "Program language/SQL/Postgresql/statements/WHERE.md",
-    "Program language/SQL/Postgresql/statements/DISTINCT.md",
-    "Program language/SQL/Postgresql/statements/ORDER BY.md",
     "Program language/SQL/Postgresql/statements/SELECT.md",
-    "Program language/SQL/Postgresql/postgresql.md",
-    "linux/Software/Text Editor/vim.md",
-    "linux/Software/Text Editor/vscode.md",
-    "linux/Software/Text Editor/nvim.md",
+    "Program language/SQL/Postgresql/statements/ORDER BY.md",
+    "Program language/SQL/Postgresql/statements/LIMIT.md",
     "Program language/SQL/Postgresql/statements/AS.md",
-    "Program language/HTML/tag/head",
-    "Program language/HTML/tag/list",
-    "Program language/PHP",
-    "Program language/HTML/tag",
-    "Program language/HTML",
-    "linux/Software/Game/Emulator/Nintendo Wii U",
-    "linux/Software/Game/Emulator/Nintendo Wii",
-    "linux/Software/Game/Emulator/Nintendo 64",
+    "zmedia/joins.png",
     "zmedia/constant.png",
     "zmedia/prompt-color.png",
     "zmedia/prompt.png",
@@ -234,8 +236,6 @@
     "linux/未命名.canvas",
     "media/2023-07-27-17:50:10.png",
     "media/gcc2.png",
-    "media/2023-07-09-14:21:44.png",
-    "zmedia/hello.png",
-    "media/2023-07-09-11:15:15.png"
+    "media/2023-07-09-14:21:44.png"
   ]
 }

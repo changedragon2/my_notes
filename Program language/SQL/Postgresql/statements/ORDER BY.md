@@ -1,4 +1,4 @@
-#### Syntax
+### Syntax
 ```SQL
 SELECT
     select_list
@@ -16,7 +16,7 @@ ORDER BY
     column_nameX [ NULLS FIRST | NULLS LAST ];
 ```
 
-#### Example
+### Example
 1. first name ascending, last name descending when with the same first name
 ```SQL
 SELECT
