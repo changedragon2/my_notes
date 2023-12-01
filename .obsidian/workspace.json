@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e28a6a76de80af5",
+        "id": "bcc2bd6971144f7b",
         "type": "tabs",
         "children": [
           {
-            "id": "9658023ce97f0f91",
+            "id": "facf31cd88309b88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Software/Text Editor/GUI/emacs.md",
+                "file": "linux/FQA/terminal in file manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Software/Text Editor/GUI/emacs.md",
+                "file": "linux/FQA/terminal in file manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Software/Text Editor/GUI/emacs.md"
+                "file": "linux/FQA/terminal in file manager.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Software/Text Editor/GUI/emacs.md",
+                "file": "linux/FQA/terminal in file manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,10 +188,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9658023ce97f0f91",
+  "active": "facf31cd88309b88",
   "lastOpenFiles": [
-    "linux/Software/Text Editor/GUI/gvim.md",
+    "linux/Software/Streaing&Recording/obs-studio.md",
+    "linux/FQA/terminal in file manager.md",
+    "linux/Archlinux Install Guide/Share/Samba/for filemanager.md",
+    "linux/Archlinux Install Guide/Share/Samba/smb.md",
+    "linux/Archlinux Install Guide/Share/Samba/samba-client.md",
+    "linux/Archlinux Install Guide/Display server/Wayland/Compositor/Hyprland/hyprland.md",
+    "linux/Archlinux Install Guide/Display server/Wayland/Compositor/Hyprland/xwayland.md",
+    "linux/Archlinux Install Guide/Display server/Wayland/Compositor/Hyprland/wallpaper.md",
+    "linux/Special Command/cmatrix.md",
+    "linux/Special Command/rev.md",
+    "linux/Special Command/toilet.md",
+    "linux/Special Command/pv.md",
+    "linux/Special Command/oneko.md",
+    "linux/Special Command/aview.md",
+    "linux/Special Command/aafire.md",
+    "linux/Archlinux Install Guide/AUR/paru.md",
+    "linux/Archlinux Install Guide/Utility/ripgrep.md",
     "linux/Software/Text Editor/GUI/emacs.md",
+    "linux/Software/Text Editor/GUI/gvim.md",
     "linux/Software/Text Editor/GUI/gedit.md",
     "linux/Software/Text Editor/GUI/gnome-text-edit.md",
     "linux/Archlinux Install Guide/Utility tools install list.md",
@@ -200,24 +217,7 @@
     "linux/command/ffmpeg.md",
     "linux/command/fg.md",
     "linux/command/hostnamectl.md",
-    "linux/command/jobs.md",
-    "linux/command/pacman.md",
-    "linux/command/pkg-config.md",
-    "linux/command/xhost.md",
-    "linux/Special Command/xeyes.md",
-    "linux/Special Command/aview.md",
-    "linux/Special Command/pv.md",
-    "linux/Special Command/asciiquarium.md",
-    "linux/Software/Others/celestia.md",
-    "linux/Special Command/aafire.md",
     "linux/Software/Others",
-    "linux/Special Command/celestia.md",
-    "linux/Special Command/pokemonsay.md",
-    "linux/Special Command/cowsay.md",
-    "linux/Special Command/cmatrix.md",
-    "linux/Special Command/toilet.md",
-    "linux/Special Command/sl.md",
-    "linux/Special Command/rev.md",
     "linux/Software/Internet Downloader/torrent",
     "linux/Software/Music Notation",
     "linux/Software/Game/Flight Simulator",
