@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/FQA/terminal in file manager.md",
+                "file": "linux/command/ffmpeg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/FQA/terminal in file manager.md",
+                "file": "linux/command/ffmpeg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/FQA/terminal in file manager.md"
+                "file": "linux/command/ffmpeg.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/FQA/terminal in file manager.md",
+                "file": "linux/command/ffmpeg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,8 @@
   },
   "active": "facf31cd88309b88",
   "lastOpenFiles": [
-    "linux/Software/Streaing&Recording/obs-studio.md",
     "linux/FQA/terminal in file manager.md",
+    "linux/Software/Streaing&Recording/obs-studio.md",
     "linux/Archlinux Install Guide/Share/Samba/for filemanager.md",
     "linux/Archlinux Install Guide/Share/Samba/smb.md",
     "linux/Archlinux Install Guide/Share/Samba/samba-client.md",
