@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc2bd6971144f7b",
+        "id": "ff3779e16bf025c9",
         "type": "tabs",
         "children": [
           {
-            "id": "facf31cd88309b88",
+            "id": "d1de894aac308785",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/command/ffmpeg.md",
+                "file": "linux/Archlinux Install Guide/Security/polkit.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/command/ffmpeg.md",
+                "file": "linux/Archlinux Install Guide/Security/polkit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/command/ffmpeg.md"
+                "file": "linux/Archlinux Install Guide/Security/polkit.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/command/ffmpeg.md",
+                "file": "linux/Archlinux Install Guide/Security/polkit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,20 +179,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "facf31cd88309b88",
+  "active": "d1de894aac308785",
   "lastOpenFiles": [
-    "linux/FQA/terminal in file manager.md",
+    "linux/command/xprop.md",
+    "linux/Software/Game/OSU",
+    "linux/Software/Player/Music/mpc.md",
+    "linux/Software/Player/Music/mpd &&  ncmpcpp.md",
     "linux/Software/Streaing&Recording/obs-studio.md",
+    "linux/FQA/address in use.md",
+    "linux/FQA/dnsmasq.md",
+    "linux/FQA/hotspot.md",
+    "linux/FQA/suspend.md",
+    "linux/FQA/terminal in file manager.md",
+    "linux/FQA/Notification.md",
+    "linux/Archlinux Install Guide/Media/Pipewire.md",
+    "linux/Archlinux Install Guide/Media/Sound/alsa.md",
+    "linux/Archlinux Install Guide/Font/fonts.md",
+    "linux/Archlinux Install Guide/Font",
+    "linux/command/ffmpeg.md",
     "linux/Archlinux Install Guide/Share/Samba/for filemanager.md",
     "linux/Archlinux Install Guide/Share/Samba/smb.md",
     "linux/Archlinux Install Guide/Share/Samba/samba-client.md",
@@ -204,19 +219,7 @@
     "linux/Special Command/pv.md",
     "linux/Special Command/oneko.md",
     "linux/Special Command/aview.md",
-    "linux/Special Command/aafire.md",
-    "linux/Archlinux Install Guide/AUR/paru.md",
-    "linux/Archlinux Install Guide/Utility/ripgrep.md",
-    "linux/Software/Text Editor/GUI/emacs.md",
-    "linux/Software/Text Editor/GUI/gvim.md",
-    "linux/Software/Text Editor/GUI/gedit.md",
-    "linux/Software/Text Editor/GUI/gnome-text-edit.md",
-    "linux/Archlinux Install Guide/Utility tools install list.md",
     "linux/Software/Text Editor/GUI",
-    "linux/command/git.md",
-    "linux/command/ffmpeg.md",
-    "linux/command/fg.md",
-    "linux/command/hostnamectl.md",
     "linux/Software/Others",
     "linux/Software/Internet Downloader/torrent",
     "linux/Software/Music Notation",
@@ -224,8 +227,6 @@
     "linux/Software/Color Picker",
     "linux/Archlinux Install Guide/Utility/Touchpad",
     "linux/Software/Digital Painting",
-    "linux/Software/Image Manipulation",
-    "linux/Software/Mind Mapping",
     "zmedia/inner_join.png",
     "zmedia/joins.png",
     "zmedia/constant.png",
