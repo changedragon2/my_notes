@@ -18,7 +18,13 @@ then the prompt would like this
 # or
 # initdb --locale=C.UTF-8 --encoding=UTF8 -D /var/lib/postgres/data --data-checksums
 ```
-3. create user/database
+3. start/enable service
+```shell
+sudo systemctl start postgresql
+# enter this for auto start when boot
+sudo systemctl enable postgresql
+```
+4. create user/database
 ```shell
 # if the postgresql user have the same name as the linux user, then you can access postgresql database without to login
 [postgres]$ createuser --interactive
@@ -26,7 +32,7 @@ then the prompt would like this
 # if you don't grant your new user database creation privilege, add '-U postgres' as an argument for below command
 createdb mydatabasename
 ```
-4. access database shell
+5. access database shell
 ```shell
 psql -d mydatabasename
 ```

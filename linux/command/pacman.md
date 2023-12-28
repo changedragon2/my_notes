@@ -51,3 +51,15 @@ prompt> pacman -Qqem > pkglist_aur.txt
 # 编辑 pkglist.txt（和 pkglist_aur.txt）并删除新系统上不需要的驱动程序。 然后安装任何其他以前安装的软件
 prompt> sudo pacman -Syu --needed - < pkglist.txt
 ```
+
+### 彩蛋
+在配置文件中加入 ILoveCandy 使进度条变成吃豆人
+```shell
+sudo vim /etc/pacman.conf
+
+...
+# Misc options
+ILoveCandy
+...
+
+```
