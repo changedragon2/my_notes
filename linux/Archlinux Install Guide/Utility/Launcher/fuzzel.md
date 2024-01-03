@@ -1,0 +1,1 @@
+Application launcher for wlroots based Wayland compositors
